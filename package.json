@@ -1,7 +1,7 @@
 {
-  "name": "mealpad",
+  "name": "Lapars",
   "version": "1.0.0",
-  "description": "#### Web page for food information",
+  "description": "#### WEB untuk solusi LaparS",
   "main": "app.js",
   "scripts": {
     "start-dev": "webpack-dev-server --config webpack.dev.js --open",
